@@ -1,0 +1,19 @@
+{
+  "name": "application-health",
+  "version": "1.0.1",
+  "description": "application health for node express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myqianlan/application-health.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/myqianlan/application-health/issues"
+  },
+  "homepage": "https://github.com/myqianlan/application-health#readme"
+}
