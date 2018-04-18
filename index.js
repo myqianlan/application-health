@@ -7,7 +7,7 @@
  */
 function applicationHealth(options) {
     var opts = options || {}
-    var path = opts.path || '/opsmonitor/health'
+    var path = opts.path || '/eyasactuator/health'
 
     return function applicationHealth(req, res, next) {
         if (req.url !== path) {
